@@ -2,7 +2,7 @@ class Macpack < Formula
   desc "Universal macOS package manager for Homebrew, npm, pnpm, bun, and uv"
   homepage "https://github.com/sk2andy/macpack"
   url "https://github.com/sk2andy/macpack/releases/download/v0.1/macpack-0.1-darwin-arm64.tar.gz"
-  sha256 "60f203cab7b1d357dadbb81e2758eca1295b1f8b110ffdf7e4e80ca525f82897"
+  sha256 "dda46a12c1a733ad2ca5e7331c1a77dad68766f42cf0f0f9cec1a2392bb66eec"
   license "MIT"
   version "0.1.0"
 
