@@ -3,7 +3,7 @@ class Macpack < Formula
   homepage "https://github.com/sk2andy/macpack"
   url "https://github.com/sk2andy/macpack/releases/download/v0.2/macpack-0.2-darwin-arm64.tar.gz"
   version "0.2.0"
-  sha256 "faf8efb68ba58115d566f3b4c3695025d3aa48cc3994e31a4c1c73538850ce4a"
+  sha256 "0c4b34671ba7bd33a7eb6f22637d456399319f55d568f7038404c6f482f85b27"
   license "MIT"
 
   def install
